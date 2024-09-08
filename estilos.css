@@ -1,0 +1,25 @@
+body {
+    margin: 30px;
+    overflow: auto;
+    font-family: Arial, sans-serif;
+}
+
+#avatar-container {
+    width: 300vw;
+    height: 300vh;
+    background-color: white;
+}
+
+button {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+footer {
+    background-color: white;
+}
+.img {
+    margin: 30px 30px 30px 30px;
+}
